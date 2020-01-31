@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། རྗེ་བཙུན་འཇམ་དཔལ་དབྱངས་ཀྱི་བསྟོད་པ་བཀྲ་ཤིས་མི་འགྱུར་བའི་དགོངས་དོན་རྣམ་པར་བཤད་པ་ཀུན་མཁྱེན་དགོངས་པའི་སྲོལ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-06
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Beginnings of Omnisecent Wisdom:A Commentary on the Praise of Manjushri
+      “Unwavering Auspiciousness”
+    bo: རྗེ་བཙུན་འཇམ་དཔལ་དབྱངས་ཀྱི་བསྟོད་པ་བཀྲ་ཤིས་མི་འགྱུར་བའི་དགོངས་དོན་རྣམ་པར་བཤད་པ་ཀུན་མཁྱེན་དགོངས་པའི་སྲོལ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 6
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༦
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-06
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-06.epub
+  description:
+    en: ''
+    bo: ''

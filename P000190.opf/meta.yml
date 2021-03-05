@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000190
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། རྗེ་བཙུན་འཇམ་དཔལ་དབྱངས་ཀྱི་བསྟོད་པ་བཀྲ་ཤིས་མི་འགྱུར་བའི་དགོངས་དོན་རྣམ་པར་བཤད་པ་ཀུན་མཁྱེན་དགོངས་པའི་སྲོལ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-06
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-DKR-06
 web_metadata:
   title:
     en: The Beginnings of Omnisecent Wisdom:A Commentary on the Praise of Manjushri
